@@ -2,7 +2,9 @@
 tags:
   - milj1
   - planering
+  - quartz
 created: 2026-08-13
+title: Miljö- och energikunskap 1
 ---
 # Kursplanering
 ## Del 1 - Hållbarhet och miljö
@@ -10,24 +12,32 @@ created: 2026-08-13
 - Centrala begrepp, teorier och modeller inom området miljö och energi.
 - Ekosystemens struktur, dynamik och bärkraft samt betydelsen av biologisk mångfald.
 - Lagar och andra bestämmelser inom miljö- och energiområdet på lokal, regional, nationell och internationell nivå.
+
 ### Planering
-| Vecka | Avsnitt                                | Sidor i boken |
-| ----- | -------------------------------------- | ------------- |
-| 34    | [[1 Behovet av hållbar utveckling]]    | 6-23          |
-| 35    | [[2 Naturen - basen för vår tillvaro]] | 24-41         |
-| 36    | [[3 Varför bry sig om miljön?]]        | 42-55         |
-| 37    | [[4 Tillståndet i miljön]]             | 56-83         |
-| 38    | [[5 Människans avtryck på miljön]]     | 84-95         |
+| Vecka | Avsnitt                                  | Uppgifter                                       | Sidor i boken |
+| ----- | ---------------------------------------- | ----------------------------------------------- | ------------- |
+| 34    | [[1.1 Behovet av hållbar utveckling]]    | [[Uppgifter 1.1 Behovet av hållbar utveckling]] | 6-23          |
+| 35    | [[1.2 Naturen - basen för vår tillvaro]] |                                                 | 24-41         |
+| 36    | [[1.3 Varför bry sig om miljön?]]        |                                                 | 42-55         |
+| 37    | [[1.4 Tillståndet i miljön]]             |                                                 | 56-83         |
+| 38    | [[1.5 Människans avtryck på miljön]]     |                                                 | 84-95         |
+
 ### Examination
+- Diskussioner på lektionstid
 - Skriftligt prov
 	- Begreppsförståelse
 	- Diskussionsfrågor
  
 ## Del 2 - Energikällor
+### Centralt innehåll
 - Centrala begrepp, teorier och modeller inom området miljö och energi.
 - Förnybara och icke förnybara energikällor samt deras ursprung och användbarhet.
 - Lagar och andra bestämmelser inom miljö- och energiområdet på lokal, regional, nationell och internationell nivå.
 - Hållbar energi- och resursanvändning inom olika områden, till exempel bostäder, infrastruktur och industriell produktion.
+### Planering
+| Vecka | Avsnitt | Sidor i boken |
+| ----- | ------- | ------------- |
+|       |         |               |
 
 ## Del 3 - Fördjupning
 
@@ -39,7 +49,7 @@ created: 2026-08-13
 - 
 
 # Ämnesplan
-[[Miljö- och energikunskap-MILJ.pdf | Skolverket]]
+[[Miljö- och energikunskap-MILJ.pdf |Ämnesplanen i sin helhet]]
 ## Förmågor
 - Förmåga att använda begreppet, teorier och modeller inom området miljö och energi.
 - Kunskaper om miljö, energianvändning och hållbar utveckling.
