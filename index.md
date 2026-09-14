@@ -21,6 +21,7 @@ title: Miljö- och energikunskap 1
 | 36    | [[1.3 Varför bry sig om miljön?]]        |                                                 | 42-55         |
 | 37    | [[1.4 Tillståndet i miljön]]             |                                                 | 56-83         |
 | 38    | [[1.5 Människans avtryck på miljön]]     |                                                 | 84-95         |
+| 39    | [[Förberedelse inför prov 1]]            |                                                 |               |
 
 ### Examination
 - Diskussioner på lektionstid
