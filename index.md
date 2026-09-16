@@ -14,14 +14,15 @@ title: Miljö- och energikunskap 1
 - Lagar och andra bestämmelser inom miljö- och energiområdet på lokal, regional, nationell och internationell nivå.
 
 ### Planering
-| Vecka | Avsnitt                                  | Uppgifter                                       | Sidor i boken |
-| ----- | ---------------------------------------- | ----------------------------------------------- | ------------- |
-| 34    | [[1.1 Behovet av hållbar utveckling]]    | [[Uppgifter 1.1 Behovet av hållbar utveckling]] | 6-23          |
-| 35    | [[1.2 Naturen - basen för vår tillvaro]] |                                                 | 24-41         |
-| 36    | [[1.3 Varför bry sig om miljön?]]        |                                                 | 42-55         |
-| 37    | [[1.4 Tillståndet i miljön]]             |                                                 | 56-83         |
-| 38    | [[1.5 Människans avtryck på miljön]]     |                                                 | 84-95         |
-| 39    | [[Förberedelse inför prov 1]]            |                                                 |               |
+| Vecka | Avsnitt                                  | Sidor i boken |
+| ----- | ---------------------------------------- | ------------- |
+| 34    | [[1.1 Behovet av hållbar utveckling]]    | 6-23          |
+| 35    | [[1.2 Naturen - basen för vår tillvaro]] | 24-41         |
+| 36    | [[1.3 Varför bry sig om miljön?]]        | 42-55         |
+| 37    | [[1.4 Tillståndet i miljön]]             | 56-83         |
+| 38    | [[1.5 Människans avtryck på miljön]]     | 84-95         |
+| 39    | [[Förberedelse inför prov 1]]            |               |
+| 40    | Prov 1 (torsdag)                         |               |
 
 ### Examination
 - Diskussioner på lektionstid
@@ -36,9 +37,15 @@ title: Miljö- och energikunskap 1
 - Lagar och andra bestämmelser inom miljö- och energiområdet på lokal, regional, nationell och internationell nivå.
 - Hållbar energi- och resursanvändning inom olika områden, till exempel bostäder, infrastruktur och industriell produktion.
 ### Planering
-| Vecka | Avsnitt | Sidor i boken |
-| ----- | ------- | ------------- |
-|       |         |               |
+| Vecka | Avsnitt                                            | Sidor i boken |
+| ----- | -------------------------------------------------- | ------------- |
+| 41    | [[2.6 Energi för människans aktiviteter]]          | 96-107        |
+| 42    | [[2.7 Energikällor och energibärare i vår tjänst]] | 108-127       |
+| 43    | [[2.8 Förnybara energikällor]]                     | 128-149       |
+| 44    | HÖSTLOV                                            |               |
+| 45    | [[2.9 Lagrade energikällor]]                       | 150-171       |
+| 46    | [[Förberedelse inför prov 2]]                      |               |
+| 47    | Prov 2 (torsdag)                                   |               |
 
 ## Del 3 - Fördjupning
 
