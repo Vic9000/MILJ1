@@ -59,7 +59,7 @@ title: Miljö- och energikunskap 1
 # Ämnesplan
 [[Miljö- och energikunskap-MILJ.pdf |Ämnesplanen i sin helhet]]
 ## Förmågor
-- Förmåga att använda begreppet, teorier och modeller inom området miljö och energi.
+- Förmåga att använda begrepp, teorier och modeller inom området miljö och energi.
 - Kunskaper om miljö, energianvändning och hållbar utveckling.
 - Förmåga att analysera problem inom miljö- och energiområdet och föreslå lösningar utifrån flera aspekter.
 - Förmåga att genomföra och presentera egna undersökningar och förslag.
@@ -80,4 +80,32 @@ Undervisningen i ämnet miljö- och energikunskap på nivå 1 ska behandla följ
 - Enklare miljökonsekvensundersökningar.
 - Dokumentation och presentation av undersökningar och förslag.
 ## Betygskriterier
-| 
+### Betygskriterie 1 - Begreppsförmåga
+#### Betyget E <!-- element class="fragment" -->
+Eleven använder med **viss säkerhet** relevanta begrepp, teorier och modeller. <!-- element class="fragment" -->
+#### Betyget C <!-- element class="fragment" -->
+Eleven använder med **säkerhet** relevanta begrepp, teorier och modeller. <!-- element class="fragment" -->
+#### Betyget A <!-- element class="fragment" -->
+Eleven använder med **god säkerhet** relevanta begrepp, teorier och modeller. <!-- element class="fragment" -->
+
+### Betygskriterie 2 - Resonemangsförmåga
+#### Betyget E <!-- element class="fragment" -->
+Eleven för **enkla** resonemang om miljö, energianvändning och hållbar utveckling. <!-- element class="fragment" -->
+#### Betyget C <!-- element class="fragment" -->
+Eleven för **utvecklade** resonemang om miljö, energianvändning och hållbar utveckling. <!-- element class="fragment" -->
+#### Betyget A <!-- element class="fragment" -->
+Eleven för **välutvecklade** resonemang om miljö, energianvändning och hållbar utveckling. <!-- element class="fragment" -->
+### Betygskriterie 3 - Analysförmåga
+#### Betyget E <!-- element class="fragment" -->
+Eleven gör **enkla** analyser av miljö- och energiproblem och föreslår lösningar med hänsyn till flera aspekter.<!-- element class="fragment" -->
+#### Betyget C <!-- element class="fragment" -->
+Eleven gör **utvecklade** analyser av miljö- och energiproblem och föreslår lösningar med hänsyn till flera aspekter. <!-- element class="fragment" -->
+#### Betyget A <!-- element class="fragment" -->
+Eleven gör **välutvecklade** analyser av miljö- och energiproblem och föreslår lösningar med hänsyn till flera aspekter. <!-- element class="fragment" -->
+### Betygskriterie 4 - Undersökningsförmåga
+#### Betyget E <!-- element class="fragment" -->
+Eleven genomför och presenterar med **viss säkerhet** undersökningar och förslag. <!-- element class="fragment" -->
+#### Betyget C <!-- element class="fragment" -->
+Eleven genomför och presenterar med **säkerhet** undersökningar och förslag. <!-- element class="fragment" -->
+#### Betyget A <!-- element class="fragment" -->
+Eleven genomför och presenterar med **god säkerhet** undersökningar och förslag. <!-- element class="fragment" -->
